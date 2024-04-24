@@ -7,8 +7,6 @@
 </a>
 </p>
 
-#### You can also find all 100 answers here 👉 [Devinterview.io - JavaScript](https://devinterview.io/questions/web-and-mobile-development/javascript-interview-questions)
-
 <br>
 
 ## 1. What are the _data types_ present in JavaScript?
